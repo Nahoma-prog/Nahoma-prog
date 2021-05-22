@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning in Arba Minch University
 - 💞️ I’m looking to collaborate on Simple Projects for startup
-- 📫 How to reach me nahomasoftware@gmail.com
+- 📫 How to reach me pg.nahoma@gmail.com
 
 <!---
 Nahoma-prog/Nahoma-prog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
